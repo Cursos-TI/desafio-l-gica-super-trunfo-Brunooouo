@@ -132,5 +132,4 @@ int main(){
         printf("Empatou!\n");
     }
     
-    
 }
